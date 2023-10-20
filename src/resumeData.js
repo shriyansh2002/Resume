@@ -1,24 +1,24 @@
 let resumeData = {
 
-    "name": "Krishna Bajpai",
+    "name": "Shriyansh Agarwal",
     "role": "Full Stack Developer",
-    "linkedinId":"https://www.linkedin.com/in/krishna-bajpai-10bb56251/",
+    "linkedinId":"https://www.linkedin.com/in/shriyansh-agarwal-8318a0229/",
     "roleDescription": "I am curretnly learning MERN Full stack and I am brushing up my skills in domains of JAVA and Python.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/krishna-bajpai-10bb56251/",
+          "url":"https://www.linkedin.com/in/shriyansh-agarwal-8318a0229//",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"https://github.com/KrIsHnABaJ",
+          "url":"https://github.com/shriyansh2002",
           "className":"fa fa-github"
         }
       ],
     "aboutme":"I am currently a pre-final year student at The Vellore Institute of Technology and pursuing my B.Tech in Information Technology. I am currently learning Full Stack Web Development and brushing up my skills Python and Java. I am also aiming to delve into world of Ai and Ml in near future.",
     "address":"India",
-    "website":"krishnabajapi28@gmail.com",
+    "website":"shriyanshagarwal1@gmail.com",
     "education":[
       {
         "UniversityName":"The Vellore Insitute of Technology",
@@ -30,7 +30,7 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Omdenaa",
+        "CompanyName":"Omdena",
         "specialization":"Artificial Intelligence and Machine Learning",
         "MonthOfLeaving":"July",
         "YearOfLeaving":"2023",
